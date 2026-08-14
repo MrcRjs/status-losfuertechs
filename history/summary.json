@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "8.49%",
-    "uptimeDay": "8.49%",
-    "uptimeWeek": "8.49%",
-    "uptimeMonth": "8.49%",
-    "uptimeYear": "8.49%",
+    "uptime": "10.99%",
+    "uptimeDay": "10.99%",
+    "uptimeWeek": "10.99%",
+    "uptimeMonth": "10.99%",
+    "uptimeYear": "10.99%",
     "time": 87,
     "timeDay": 87,
     "timeWeek": 87,
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2026-08-14": 2
+      "2026-08-14": 4
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 409,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "1.72%",
-    "uptimeDay": "1.72%",
-    "uptimeWeek": "1.72%",
-    "uptimeMonth": "1.72%",
-    "uptimeYear": "1.72%",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 12
+      "2026-08-14": 14
     }
   }
 ]
