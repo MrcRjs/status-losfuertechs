@@ -1,22 +1,22 @@
 [
   {
-    "name": "Plex",
+    "name": "Plexi",
     "url": "$PLEX_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "plex",
-    "status": "down",
-    "uptime": "24.20%",
-    "uptimeDay": "24.20%",
-    "uptimeWeek": "24.20%",
-    "uptimeMonth": "24.20%",
-    "uptimeYear": "24.20%",
+    "slug": "plexi",
+    "status": "up",
+    "uptime": "29.56%",
+    "uptimeDay": "29.56%",
+    "uptimeWeek": "29.56%",
+    "uptimeMonth": "29.56%",
+    "uptimeYear": "29.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 1
+      "2026-08-14": 0
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sirius",
     "status": "down",
-    "uptime": "32.07%",
-    "uptimeDay": "32.07%",
-    "uptimeWeek": "32.07%",
-    "uptimeMonth": "32.07%",
-    "uptimeYear": "32.07%",
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 0
+      "2026-08-14": 7
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 0
+      "2026-08-14": 7
     }
   }
 ]
