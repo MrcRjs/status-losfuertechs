@@ -6,6 +6,9 @@ sites:
   - name: Plexi
     slug: plex
     url: $PLEX_BASE
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Sirius
     url: $SIRIUS_BASE
   - name: Test
