@@ -7,6 +7,8 @@ sites:
     url: $PLEX_BASE
   - name: Sirius
     url: $SIRIUS_BASE
+  - name: Test
+    url: http://youtube.com
   - name: Secret Site
     url: $SECRET_SITE
 
