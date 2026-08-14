@@ -4,6 +4,7 @@ repo: status-losfuertechs # The name of this repository
 
 sites:
   - name: Plexi
+    slug: plex
     url: $PLEX_BASE
   - name: Sirius
     url: $SIRIUS_BASE
