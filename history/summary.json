@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plexi",
     "status": "down",
-    "uptime": "1.98%",
-    "uptimeDay": "1.98%",
-    "uptimeWeek": "1.98%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "1.98%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "1.37%",
+    "uptimeDay": "1.37%",
+    "uptimeWeek": "1.37%",
+    "uptimeMonth": "1.37%",
+    "uptimeYear": "1.37%",
+    "time": 335,
+    "timeDay": 335,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2026-08-14": 10
+      "2026-08-14": 13
     }
   },
   {
@@ -24,20 +24,38 @@
     "url": "$SIRIUS_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sirius",
-    "status": "down",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.29%",
+    "uptimeDay": "2.29%",
+    "uptimeWeek": "2.29%",
+    "uptimeMonth": "2.29%",
+    "uptimeYear": "2.29%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-08-14": 17
+      "2026-08-14": 20
     }
+  },
+  {
+    "name": "Test",
+    "url": "http://youtube.com",
+    "icon": "https://icons.duckduckgo.com/ip3/youtube.com.ico",
+    "slug": "test",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 462,
+    "timeDay": 462,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -45,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 16
+      "2026-08-14": 20
     }
   }
 ]
