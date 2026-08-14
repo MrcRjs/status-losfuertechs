@@ -11,10 +11,6 @@ sites:
       - 401
   - name: Sirius
     url: $SIRIUS_BASE
-  - name: Test
-    url: http://youtube.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
