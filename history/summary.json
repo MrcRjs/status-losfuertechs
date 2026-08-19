@@ -4,19 +4,19 @@
     "url": "$PLEX_BASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 110,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 193,
+    "timeDay": 163,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2026-08-19": 0
+      "2026-08-19": 46
     }
   },
   {
