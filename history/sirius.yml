@@ -1,7 +1,7 @@
 url: $SIRIUS_BASE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-25T19:50:49.258Z
+status: up
+code: 200
+responseTime: 219
+lastUpdated: 2026-08-25T20:12:08.272Z
 startTime: 2026-08-14T08:30:01.930Z
 generator: Upptime <https://github.com/upptime/upptime>
