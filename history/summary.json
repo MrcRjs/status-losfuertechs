@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.76%",
+    "uptimeDay": "6.07%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "98.76%",
     "time": 237,
-    "timeDay": 104,
-    "timeWeek": 237,
-    "timeMonth": 246,
+    "timeDay": 0,
+    "timeWeek": 219,
+    "timeMonth": 245,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-29": 234,
+      "2026-10-28": 1119
+    }
   },
   {
     "name": "Sirius",
@@ -29,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 48,
-    "timeWeek": 123,
-    "timeMonth": 144,
+    "timeDay": 195,
+    "timeWeek": 124,
+    "timeMonth": 146,
     "timeYear": 171,
     "dailyMinutesDown": {}
   }
