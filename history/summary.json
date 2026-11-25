@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "55.86%",
-    "uptimeWeek": "86.95%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "98.49%",
+    "uptime": "98.44%",
+    "uptimeDay": "50.45%",
+    "uptimeWeek": "86.17%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "98.44%",
     "time": 240,
     "timeDay": 214,
     "timeWeek": 237,
@@ -20,7 +20,7 @@
       "2026-11-21": 544,
       "2026-11-22": 136,
       "2026-11-24": 635,
-      "2026-11-25": 1
+      "2026-11-25": 79
     }
   },
   {
